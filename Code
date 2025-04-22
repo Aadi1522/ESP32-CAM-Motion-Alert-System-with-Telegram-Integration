@@ -10,8 +10,8 @@ const char* ssid = "ESP32TEST";
 const char* password = "12345678";
 
 // Telegram bot details
-String token = "7687894779:AAHtEtWpHdOOIrHENPjNPbRYOKdLMC7CQq4";
-String chat_id = "1128667301";
+String token = "*********************************";
+String chat_id = "*****************";
 
 // PIR motion sensor pin
 int gpioPIR = 13;
